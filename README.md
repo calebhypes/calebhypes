@@ -8,7 +8,10 @@ brands such as NASCAR, The Masters, PGA, and more.
 
 # Outside of Work 👾 
 
-Outside of work, I'm a proud cat dad, massive coffee enthusiast and foodie, you can usually find me playing Marvel Rivals or something similar, and I enjoy card, board, and tabletop games.
+Outside of work, I'm a proud cat dad, massive coffee enthusiast and foodie, you can usually find me playing 
+Marvel Rivals or something similar. I also enjoy card, board, and tabletop games of all kinds. I occasionally attempt to
+dive back into indie game development as a hobby via Game Jams but it has been quite some time since I've actually built 
+an indie game to completion.
 
 ---
 
