@@ -45,3 +45,7 @@ an indie game to completion.
 ## Currently building
 -  👨‍💻 My portfolio, I plan to get this back up soon, using React, TypeScript, Vite, NodeJS, Express, and PostgreSQL. I'm also playing with Tailwind CSS and Framer Motion for this project.
 - 🐈‍⬛ [Poe's Promise](https://poespromise.org) - A feline blood availability platform serving pet parents in the state of Ohio working with emergency vet volunteers to provide as up-to-date as possible blood availability. This is built with React, TypeScript, Vite, NodeJS, Express, PostgreSQL, and Prisma.
+- 🏁 [NASCAR Fantasy Live](https://fantasygames.nascar.com/live) - NASCAR's flagship season long fantasy roster game.
+- 🏎️ [NASCAR Fantasy Hub](https://fantasygames.nascar.com) - The hub for all things NASCAR Fantasy.
+- [NASCAR 36 for 36](https://fantasygames.nascar.com/36for36) - 36 drivers, 36 races, the famous community game turned fantasy.
+- [NASCAR In Season Challenge](https://fantasygames.nascar.com/in-season-challenge) - NASCARs famous bracket game.
